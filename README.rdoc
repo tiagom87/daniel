@@ -1,10 +1,10 @@
 == Installation Instructions
 
-git clone git@github.com:tiagom87/daniel.git
-cd daniel
-bundle install
-rake db:migrate
-rails server
+- git clone git@github.com:tiagom87/daniel.git
+- cd daniel
+- bundle install
+- rake db:migrate
+- rails server
 
 == Notas
 
